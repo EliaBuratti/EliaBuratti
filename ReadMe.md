@@ -1,5 +1,3 @@
-<div style="display:flex; flex-wrap:wrap;>
-
 <div align="center">
 <h1 align="center">
 My name is Elia   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -26,5 +24,5 @@ I really enjoy the world of programming, with its vastness, full of things to le
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliaBuratti&layout=compact&theme=vision-friendly-dark)](https://github.com/EliaBuratti?tab=repositories)
 </div>
 
-</div>
+
 
