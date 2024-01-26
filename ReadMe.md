@@ -4,7 +4,7 @@
 <h1 align="center">
 My name is Elia   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-<img src="https://avatars.githubusercontent.com/u/115486285?v=4" width="400" style="border-radius:50%"/>
+<img src="https://raw.githubusercontent.com/EliaBuratti/EliaBuratti/main/_e52ca584-959d-49d6-bebd-910da9ec38b7.jpg" width="400" style="border-radius:50%"/>
 </div>
 
 <div>
