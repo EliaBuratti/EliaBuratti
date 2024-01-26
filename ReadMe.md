@@ -1,11 +1,11 @@
-<div align="center">
 <h1 align="center">
-My name is Elia   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-<img src="https://raw.githubusercontent.com/EliaBuratti/EliaBuratti/main/_e52ca584-959d-49d6-bebd-910da9ec38b7.jpg" width="400"/>
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-</div>
 
-<div>
+<div id="header" align="center">
+  <img src="https://raw.githubusercontent.com/EliaBuratti/EliaBuratti/main/_e52ca584-959d-49d6-bebd-910da9ec38b7.jpg" width="400"/>
+</div>
 
 <h2 font-weight="bold"> Who am I </h2>
 
