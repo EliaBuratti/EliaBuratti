@@ -17,7 +17,7 @@ I really enjoy the world of programming, with its vastness, full of things to le
 
 - Want to know which tools and languages I know? Browse through my <a href="https://github.com/EliaBuratti?tab=repositories">GitHub</a> projects!
 
-- Recently i have stated to learn Python, <a href="https://github.com/EliaBuratti/first-step-python">See my first steps on it!</a>
+- Recently i have stated to learn c#, <a href="https://github.com/EliaBuratti?tab=repositories&q=&type=&language=c%23&sort=" targhet= "_blank">See my first steps on it!</a>
 
 - Here are some little stats on the repositories here on github:
 
